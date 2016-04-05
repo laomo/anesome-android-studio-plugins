@@ -1,6 +1,6 @@
 ##  Android Studio Plugins
 
-Android Studio(以下简称AS)插件可以极大的提高开发效率，解放我们的双手，以下是使用过程中收集的插件。由于AS基于IntelliJ IDEA，所以插件其实是通用的。
+Android Studio(以下简称AS)插件可以极大的提高开发效率，解放我们的双手，以下是使用过程中收集的一些很不错的插件。由于AS基于IntelliJ IDEA，所以插件其实是通用的。
 
 ### 关于安装
 1. Download and install `The Plugin` directly from Intellij / Android Studio: Preferences/Settings->Plugins->Browse Repositories
